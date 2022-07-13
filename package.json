@@ -1,0 +1,14 @@
+{
+  "name": "roman-to-base-10",
+  "version": "1.0.0",
+  "description": "Quick kata to convert roman to base 10. Test included",
+  "main": "convert.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "George Abumere",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
